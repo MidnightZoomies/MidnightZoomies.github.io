@@ -1,0 +1,24 @@
+.logo
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 792px;
+    height: 198px;
+}
+
+.about
+{
+    text-align: center;
+    font-size: 50px;
+    color: grey;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    width: 50%;
+    border: 3px solid grey;
+    padding: 5px;
+  }
